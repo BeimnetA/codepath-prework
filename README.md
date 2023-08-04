@@ -2,9 +2,9 @@
 
 Submitted by: **Beimnet Aklilu**
 
-**Name of your app** is an app that... [TODO] 
+**Random background app** is an app that changes background color everytime the random button is pressed.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
