@@ -1,4 +1,4 @@
-# Prework - *Random Background*
+# Prework - *Random Background App*
 
 Submitted by: **Beimnet Aklilu**
 
