@@ -1,8 +1,8 @@
-# Prework - *Name of App Here*
+# Prework - *Random Background*
 
 Submitted by: **Beimnet Aklilu**
 
-**Random background app** is an app that changes background color everytime the random button is pressed.
+**Random Background app** is an app that changes background color everytime the random button is pressed.
 
 Time spent: **5** hours spent in total
 
@@ -47,6 +47,7 @@ An app I would like building is an app that focuses on helping people improve th
 ## Notes
 
 Describe any challenges encountered while building the app.
+- The one challenge I faced was having to start building this app late because I was in another country for most of the summer and I wasn't able to start it there because of a lack of good internet connection. I just started working on it beginning late July because that is when I came back
 
 ## License
 
